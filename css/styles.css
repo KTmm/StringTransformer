@@ -58,6 +58,8 @@ textarea
 	border: 4px #d5d5d5 solid;
 	padding: 12px;
 	word-wrap: break-word;
+	overflow: scroll;
+
 }
 
 #button
